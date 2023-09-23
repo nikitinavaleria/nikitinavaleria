@@ -11,7 +11,7 @@ I am a Data Analysis and Data Science specialist from Moscow, Russia
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/nikitina-valeria/">
+  <a href="https://www.linkedin.com/in/nikitinavaleria/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
